@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Slip12", "Slip12\Slip12.vbproj", "{116CE8FB-7DD5-40F1-A574-4BDE7D446842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{116CE8FB-7DD5-40F1-A574-4BDE7D446842}.Debug|x86.ActiveCfg = Debug|x86
+		{116CE8FB-7DD5-40F1-A574-4BDE7D446842}.Debug|x86.Build.0 = Debug|x86
+		{116CE8FB-7DD5-40F1-A574-4BDE7D446842}.Release|x86.ActiveCfg = Release|x86
+		{116CE8FB-7DD5-40F1-A574-4BDE7D446842}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip14\Slip14\bin\Debug\Slip14.exe
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip14\Slip14\bin\Debug\Slip14.pdb
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip14\Slip14\bin\Debug\Slip14.xml
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip14\Slip14\obj\x86\Debug\Slip14.Form1.resources
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip14\Slip14\obj\x86\Debug\Slip14.Resources.resources
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip14\Slip14\obj\x86\Debug\Slip14.vbproj.GenerateResource.Cache
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip14\Slip14\obj\x86\Debug\Slip14.exe
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip14\Slip14\obj\x86\Debug\Slip14.xml
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip14\Slip14\obj\x86\Debug\Slip14.pdb

@@ -1,0 +1,9 @@
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip11\Slip11\bin\Debug\Slip11.exe
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip11\Slip11\bin\Debug\Slip11.pdb
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip11\Slip11\bin\Debug\Slip11.xml
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip11\Slip11\obj\x86\Debug\Slip11.Form1.resources
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip11\Slip11\obj\x86\Debug\Slip11.Resources.resources
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip11\Slip11\obj\x86\Debug\Slip11.vbproj.GenerateResource.Cache
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip11\Slip11\obj\x86\Debug\Slip11.exe
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip11\Slip11\obj\x86\Debug\Slip11.xml
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip11\Slip11\obj\x86\Debug\Slip11.pdb
