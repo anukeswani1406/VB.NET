@@ -1,0 +1,9 @@
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip3\Slip3\bin\Debug\Slip3.exe
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip3\Slip3\bin\Debug\Slip3.pdb
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip3\Slip3\bin\Debug\Slip3.xml
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip3\Slip3\obj\x86\Debug\Slip3.Form1.resources
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip3\Slip3\obj\x86\Debug\Slip3.Resources.resources
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip3\Slip3\obj\x86\Debug\Slip3.vbproj.GenerateResource.Cache
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip3\Slip3\obj\x86\Debug\Slip3.exe
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip3\Slip3\obj\x86\Debug\Slip3.xml
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip3\Slip3\obj\x86\Debug\Slip3.pdb

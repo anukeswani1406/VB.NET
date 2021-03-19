@@ -1,0 +1,12 @@
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip4\Slip4\bin\Debug\Slip4.exe
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip4\Slip4\bin\Debug\Slip4.pdb
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip4\Slip4\bin\Debug\Slip4.xml
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip4\Slip4\obj\x86\Debug\Slip4.Form1.resources
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip4\Slip4\obj\x86\Debug\Slip4.Resources.resources
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip4\Slip4\obj\x86\Debug\Slip4.vbproj.GenerateResource.Cache
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip4\Slip4\obj\x86\Debug\Slip4.exe
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip4\Slip4\obj\x86\Debug\Slip4.xml
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip4\Slip4\obj\x86\Debug\Slip4.pdb
+C:\Users\Anu Keswani\Desktop\Sem 5\DOTNET PRACTICAL\Slip4\Slip4\obj\x86\Debug\Slip4.exe
+C:\Users\Anu Keswani\Desktop\Sem 5\DOTNET PRACTICAL\Slip4\Slip4\obj\x86\Debug\Slip4.xml
+C:\Users\Anu Keswani\Desktop\Sem 5\DOTNET PRACTICAL\Slip4\Slip4\obj\x86\Debug\Slip4.pdb
