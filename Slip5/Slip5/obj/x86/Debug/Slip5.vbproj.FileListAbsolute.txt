@@ -1,0 +1,9 @@
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip5\Slip5\obj\x86\Debug\Slip5.Form1.resources
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip5\Slip5\obj\x86\Debug\Slip5.Resources.resources
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip5\Slip5\obj\x86\Debug\Slip5.vbproj.GenerateResource.Cache
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip5\Slip5\bin\Debug\Slip5.exe
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip5\Slip5\bin\Debug\Slip5.pdb
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip5\Slip5\bin\Debug\Slip5.xml
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip5\Slip5\obj\x86\Debug\Slip5.exe
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip5\Slip5\obj\x86\Debug\Slip5.xml
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip5\Slip5\obj\x86\Debug\Slip5.pdb
