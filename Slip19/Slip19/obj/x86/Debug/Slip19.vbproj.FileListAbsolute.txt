@@ -1,0 +1,9 @@
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip19\Slip19\bin\Debug\Slip19.exe
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip19\Slip19\bin\Debug\Slip19.pdb
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip19\Slip19\bin\Debug\Slip19.xml
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip19\Slip19\obj\x86\Debug\Slip19.Form1.resources
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip19\Slip19\obj\x86\Debug\Slip19.Resources.resources
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip19\Slip19\obj\x86\Debug\Slip19.vbproj.GenerateResource.Cache
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip19\Slip19\obj\x86\Debug\Slip19.exe
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip19\Slip19\obj\x86\Debug\Slip19.xml
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip19\Slip19\obj\x86\Debug\Slip19.pdb
