@@ -1,0 +1,9 @@
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip10\Slip10\bin\Debug\Slip10.exe
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip10\Slip10\bin\Debug\Slip10.pdb
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip10\Slip10\bin\Debug\Slip10.xml
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip10\Slip10\obj\x86\Debug\Slip10.Form1.resources
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip10\Slip10\obj\x86\Debug\Slip10.Resources.resources
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip10\Slip10\obj\x86\Debug\Slip10.vbproj.GenerateResource.Cache
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip10\Slip10\obj\x86\Debug\Slip10.exe
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip10\Slip10\obj\x86\Debug\Slip10.xml
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip10\Slip10\obj\x86\Debug\Slip10.pdb

@@ -1,0 +1,12 @@
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip9\Slip9\bin\Debug\Slip9.exe
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip9\Slip9\bin\Debug\Slip9.pdb
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip9\Slip9\bin\Debug\Slip9.xml
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip9\Slip9\obj\x86\Debug\Slip9.Form1.resources
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip9\Slip9\obj\x86\Debug\Slip9.Resources.resources
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip9\Slip9\obj\x86\Debug\Slip9.vbproj.GenerateResource.Cache
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip9\Slip9\obj\x86\Debug\Slip9.exe
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip9\Slip9\obj\x86\Debug\Slip9.xml
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip9\Slip9\obj\x86\Debug\Slip9.pdb
+C:\Users\Anu Keswani\Desktop\Sem 5\DOTNET PRACTICAL\Slip9\Slip9\obj\x86\Debug\Slip9.exe
+C:\Users\Anu Keswani\Desktop\Sem 5\DOTNET PRACTICAL\Slip9\Slip9\obj\x86\Debug\Slip9.xml
+C:\Users\Anu Keswani\Desktop\Sem 5\DOTNET PRACTICAL\Slip9\Slip9\obj\x86\Debug\Slip9.pdb

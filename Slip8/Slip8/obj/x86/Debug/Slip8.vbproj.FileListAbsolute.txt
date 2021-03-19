@@ -1,0 +1,9 @@
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip8\Slip8\bin\Debug\Slip8.exe
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip8\Slip8\bin\Debug\Slip8.pdb
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip8\Slip8\bin\Debug\Slip8.xml
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip8\Slip8\obj\x86\Debug\Slip8.Form1.resources
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip8\Slip8\obj\x86\Debug\Slip8.Resources.resources
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip8\Slip8\obj\x86\Debug\Slip8.vbproj.GenerateResource.Cache
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip8\Slip8\obj\x86\Debug\Slip8.exe
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip8\Slip8\obj\x86\Debug\Slip8.xml
+C:\Users\Anu Keswani\Desktop\DOTNET PRACTICAL\Slip8\Slip8\obj\x86\Debug\Slip8.pdb
